@@ -16,8 +16,5 @@ this a list of my favored food:
 2. fruits
 3. red meat
 
-##contact
-The best way to get in touch with me is  [on my website] (https://bubuss.github.io/my_first_repo).
-
 
 
